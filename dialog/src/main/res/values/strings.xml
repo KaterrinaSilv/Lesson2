@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="show_time_dialog">choose a time</string>
+    <string name="time">TIME</string>
+    <string name="show_date">show date</string>
+    <string name="date">DATE</string>
+    <string name="show_progress">show progress</string>
+</resources>
